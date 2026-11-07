@@ -1,4 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLPCB,$2.00,$2.00,https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006
 ESP32-S3-Zero,1,Aliexpress,$7.21,$7.21,https://www.aliexpress.com/item/1005013003902648.html?spm=a2g0o.productlist.main.1.734d1076AvsC33&algo_pvid=f77344bf-2b81-4aeb-a83e-f5bbe77285b8&pdp_ext_f=%7B%22order%22%3A%2214%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005013003902648%7C_p_origin_prod%3A
+EC11 rotary encoder,1,Aliexpress,$208.00,$208.00,https://www.aliexpress.com/item/1005013537758481.html?spm=a2g0o.productlist.main.1.5c4d68b66ofmHQ&algo_pvid=3915fb76-88f3-4f4c-b54a-9492d85ddb18&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005013537758481%7C_p_origin_prod%3A
 Estimated total shipping,1,,,$0.00,
